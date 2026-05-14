@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Darryl</title>
 
-    <!-- CSS -->
+    <!-- Enlace al CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
@@ -15,13 +15,13 @@
         <div id="chat-box"></div>
 
         <div class="input-container">
-            <input type="text" id="user-input" placeholder="Escribe un mensaje...">
+            <textarea type="text" id="user-input" placeholder="Escribe un mensaje..."></textarea>
             <button onclick="sendMessage()">Enviar</button>
         </div>
 
     </div>
 
-    <!-- JS -->
+    <!-- Enlace al chat.js -->
     <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
 
 </body>
