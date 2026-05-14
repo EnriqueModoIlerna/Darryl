@@ -1,0 +1,50 @@
+[
+  {
+    "user": "Hola",
+    "bot": "\u00a1Hola! \u00bfQu\u00e9 tal? \u00a1Genial!"
+  },
+  {
+    "user": "\u00bfGenial?",
+    "bot": "Antes mencionaste: Hola \ud83d\ude0a"
+  },
+  {
+    "user": "Pero \u00bfQue tal? seguido de un \u00a1Genial! Es un poco confuso no?",
+    "bot": "Antes mencionaste: \u00bfGenial? \ud83d\ude04"
+  },
+  {
+    "user": "\u00bfQue?",
+    "bot": "Antes mencionaste: Pero \u00bfQue tal? seguido de un \u00a1Genial! Es un poco confuso no? \ud83d\ude04"
+  },
+  {
+    "user": "Solo imitas no?",
+    "bot": "Antes mencionaste: \u00bfQue? \ud83d\ude0a"
+  },
+  {
+    "user": "Solo imitas no?",
+    "bot": "Antes mencionaste: Solo imitas no? \ud83d\ude0a"
+  },
+  {
+    "user": "Guapo",
+    "bot": "Antes mencionaste: Solo imitas no? Hmm interesante..."
+  },
+  {
+    "user": "Guapo",
+    "bot": "Antes mencionaste: Guapo \ud83d\ude0a"
+  },
+  {
+    "user": "Hola",
+    "bot": "\u00a1Hola! \u00bfQu\u00e9 tal? \u00a1Genial!"
+  },
+  {
+    "user": "Jelou",
+    "bot": "Antes mencionaste: Hola Hmm interesante..."
+  },
+  {
+    "user": "Si, y?",
+    "bot": "Antes mencionaste: Jelou Hmm interesante..."
+  },
+  {
+    "user": "Que te pasa",
+    "bot": "Antes mencionaste: Si, y? \u00a1Genial!"
+  }
+]

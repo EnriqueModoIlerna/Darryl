@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Darryl</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <div class="chat-container">
+
+        <div id="chat-box"></div>
+
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Escribe un mensaje...">
+            <button onclick="sendMessage()">Enviar</button>
+        </div>
+
+    </div>
+
+    <!-- JS -->
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+
+</body>
+</html>
